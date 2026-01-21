@@ -1,4 +1,4 @@
-# SPY Trading Strategy
+# Volatility Position Scaler Model
 
 **Machine Learning-Driven Alpha Generation | +2.3% Annual Alpha**
 
@@ -57,6 +57,7 @@ Python | Scikit-learn | Interactive Brokers API | Jupyter | NumPy/Pandas
 ---
 
 *Proprietary implementation details confidential. Past performance does not guarantee future results.*
+
 
 
 
