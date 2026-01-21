@@ -1,4 +1,3 @@
-﻿# Python
 __pycache__/
 *.py[cod]
 *.class
@@ -8,10 +7,8 @@ env/
 venv/
 *.egg-info/
 
-# Jupyter
 .ipynb_checkpoints/
 
-# Proprietary code (CRITICAL - protects your IP)
 *.py
 *.ipynb
 *.pkl
@@ -19,36 +16,30 @@ venv/
 *.h5
 *.pt
 
-# Except specific public files you want to share
 !README.md
 !setup.py
 !.ipynb
 
-# API credentials and secrets
 .env
 *credentials*
 *secrets*
 *config.json
 *api_key*
 
-# Data files
 *.csv
 *.xlsx
 *.parquet
 *.feather
 
-# Model weights and checkpoints
 models/
 weights/
 checkpoints/
 *.pth
 
-# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# OS
 .DS_Store
 Thumbs.db
