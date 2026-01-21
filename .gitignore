@@ -22,6 +22,7 @@ venv/
 # Except specific public files you want to share
 !README.md
 !setup.py
+!.ipynb
 
 # API credentials and secrets
 .env
