@@ -52,11 +52,12 @@ Python | Scikit-learn | Interactive Brokers API | Jupyter | NumPy/Pandas
 
 **Tyson MacCoubrey**
 - maccoubreyt@gmail.com
-- Quantitative trading strategist focused on systematic alpha generation through machine learning and production-grade infrastructure.
+- Quantitative trading strategist focused on alpha generation through machine learning and production-grade infrastructure.
 
 ---
 
 *Proprietary implementation details confidential. Past performance does not guarantee future results.*
+
 
 
 
